@@ -1,0 +1,12 @@
+/* Common nav styles  */
+.navigation-wrapper {
+    height: 190px;
+}
+
+.contact-hours-wrapper {
+    color: royalblue;
+}
+
+.address-wrapper {
+    color: saddlebrown;
+}
