@@ -45,3 +45,8 @@ body {
 .address-wrapper {
     font-family: 'Ubuntu Condensed', sans-serif;
 }
+
+.banner-image img {
+    width: 216px;
+    height: 100%;
+}
