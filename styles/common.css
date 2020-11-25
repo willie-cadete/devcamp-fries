@@ -7,3 +7,22 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Slab', serif;
 }
+
+/* Footer section styles */
+
+.footer {
+    background-color: #11122b;
+    color: #cbcbcb;
+    font-family: 'Ubuntu Condensed';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    margin-top: -4px;
+}
+
+.footer > .logo-footer img {
+    width: 180px;
+    height: 100%;
+}
