@@ -45,6 +45,10 @@
     color: #11122b;
 }
 
+.form input:focus::-webkit-input-placeholder, .form textarea:focus::-webkit-input-placeholder{
+    color: transparent;
+}
+
 .form label {
     font-size: 1.2rem;
     font-weight: 700;
